@@ -107,7 +107,12 @@ We can see that docs are pointing to the following stream name:
 Stream Name: <symbol>@trade
 ```
 
-Together, our full URL looks like: "wss://stream.binance.com:9443/ws/<symbol>@trade".
+Together, our full URL looks like:
+
+```
+wss://stream.binance.com:9443/ws/<symbol>@trade.
+```
+
 To give a concrete example: the raw trade events stream URL for symbol XRPUSDT is:
 "wss://stream.binance.com:9443/ws/xrpusdt@trade" (remember that symbols need to be lowercased, otherwise no trade events will get streamed - there's *no* error).
 
