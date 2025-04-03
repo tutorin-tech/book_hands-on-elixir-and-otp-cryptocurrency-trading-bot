@@ -46,9 +46,7 @@ THE SOFTWARE/BOOK IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR 
 
 ## PDF & EPUB {-}
 
-To keep this book up to date and publicly available for people who can't afford to pay for it, I've released it in the HTML format free online at [https://www.elixircryptobot.com](https://www.elixircryptobot.com).
-
-The PDF & EPUB formats are available for purchase on [Gumroad](https://gum.co/cSGdY).
+The PDF and EPUB formats have been prepared for the [TutorIn.Tech](https://t.me/TutorInTechBot?start=elixirbook) library. There, you can find this book along with others.
 
 ## Preface {-}
 
